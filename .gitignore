@@ -1,0 +1,59 @@
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Java
+*.class
+*.jar
+*.war
+target/
+build/
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+dist/
+build/
+out/
+*.exe
+*.dll
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+credentials.json
